@@ -1,3 +1,3 @@
 ##master branch
-local changes
+local changes, master changes after the pull request
 ##myBranch changes
